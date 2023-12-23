@@ -4,7 +4,7 @@
   "description": "Spinz backend",
   "main": "server.js",
   "scripts": {
-"start": "pm2-runtime start server.js 
+"start": "pm2-runtime start server.js "
   },
   "dependencies": {
 "pm2": "^5.1.0"
